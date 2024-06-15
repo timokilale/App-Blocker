@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "891881982946",
+    "project_id": "digitalwellbeingms",
+    "storage_bucket": "digitalwellbeingms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891881982946:android:8cf5e91ed951d6e7f207bb",
+        "android_client_info": {
+          "package_name": "com.timo.digitalwellbeingms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnR2ToEK4pYw2Oa4BOVYYCzpIsnqaX-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891881982946:android:71abd44b2ff58d50f207bb",
+        "android_client_info": {
+          "package_name": "com.timo.javaside"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnR2ToEK4pYw2Oa4BOVYYCzpIsnqaX-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891881982946:android:4408bf10d61acee6f207bb",
+        "android_client_info": {
+          "package_name": "com.timo.reaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnR2ToEK4pYw2Oa4BOVYYCzpIsnqaX-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

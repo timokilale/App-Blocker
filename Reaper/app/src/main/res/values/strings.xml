@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reaper</string>
+    <string name="accessibility_service_description" />
+    <string name="device_admin_description">Device Administrator</string>
+</resources>
